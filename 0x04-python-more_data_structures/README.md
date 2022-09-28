@@ -38,5 +38,4 @@ ___
  ***16. CPython #1: PyBytesObject***
 ___
 
-## **Project By:** ##
-###  **Patrick** ###
+## **Project By: Patrick** ##
